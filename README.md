@@ -1,4 +1,4 @@
-# Construindo uma página para um site de clinica veterinaria
-## Nescessário para desenvolvimento
+# Building a page for a veterinary clinic website
+## Necessary for development
 - HTML5
 - CSS
